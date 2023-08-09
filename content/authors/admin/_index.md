@@ -1,5 +1,5 @@
 ---
-title: Omer Shubi
+title: Adi Vainiger
 role: PhD Student Data Science 
 bio: My research explores how eye movements in reading are related to different
   reading tasks and to reading comprehension.
@@ -48,9 +48,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Shubi
+last_name: Vainiger
 highlight_name: true
-first_name: Omer
+first_name: Adi
 email: ""
 ---
 I am a PhD student in Data Science at the Technion, working under the supervision of [Yevgeni Berzak](https://dds.technion.ac.il/academicstaff/yevgeni-berzak/) at the Language, Computation and Cognitition [(LaCC) Lab](https://lacclab.github.io/).
