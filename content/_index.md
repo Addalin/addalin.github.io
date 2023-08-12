@@ -63,7 +63,7 @@ sections:
       filters:
         folders:
           - student_projects
-        featured_only: true
+        #featured_only: true
     design:
       columns: '2'
       view: card
