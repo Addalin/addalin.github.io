@@ -78,6 +78,7 @@ sections:
     design:
       columns: '2'
       view: compact
+
   - block: collection
     content:
       count: 10
