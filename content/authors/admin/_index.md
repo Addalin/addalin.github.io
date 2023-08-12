@@ -1,8 +1,7 @@
 ---
 title: Adi Vainiger
-role: PhD Candidate Electrical and Computers Engineering
-bio: I am passionate about solving challenging and multidisciplinary research engineering problems.
-  - Inverse Problems
+role: PhD Candidate, Electrical and Computers Engineering, Technon, Israel
+bio: I develop computational imaging tools for sensing and learning environmental parameters.
   - Computational Imaging
   - Computer Vision
   - Statistical Learning
@@ -35,13 +34,13 @@ organizations:
     url: https://www.technion.ac.il/en/home-2/
 education:
   courses:
-    - course: PhD Candidate in Electrical and Computers Engineering
+    - course: PhD Candidate in Electrical & Computer Engineering
       institution: Technion - Israel Institute of Technology
       year: "2020 - Present"
-    - course: MSc in Electrical and Computers Engineering
+    - course: MSc in Electrical & Computer Engineering
       institution: Technion - Israel Institute of Technology
       year: "2014 - 2019"
-    - course: BSc in Electrical and Computers Engineering
+    - course: BSc in Electrical & Computer Engineering
       institution: Technion - Israel Institute of Technology
       year: "2008 - 2012"
 superuser: true
@@ -52,5 +51,12 @@ highlight_name: true
 first_name: Adi
 email: ""
 ---
-I am a PhD Candidate in Electrical and Computers Engineering at the Technion, working under the supervision of [yoav schechner](https://webee.technion.ac.il/people/yoav/) at the Hibrid Imaging Lab [(HIL)](https://webee.technion.ac.il/people/yoav/lab-and-group/).
-I am passionate about solving challenging and multidisciplinary research engineering problems. My PhD research explores how to enhance daynamic phonoma study from atmospheric lidars.
+I am a Ph.D. candidate in Electrical & Computer Engineering at the Technion, Israel Institute of Technology. 
+My Ph.D. and MSc advisor is [Prof. Yoav Schechner](https://webee.technion.ac.il/people/yoav/) at the [Hybrid Imaging Lab](https://webee.technion.ac.il/people/yoav/lab-and-group/) in the Viterbi Faculty of ECE. I am a PBC fellowship recipient for outstanding women doctoral students in Hi-Tech professions 2022-2023 by the Planning & Budgeting Committee, The Council for Higher Education of Israel.
+
+I develop computational imaging tools for sensing and learning environmental parameters.
+My research interests lie in data inference and solving inverse problems from optical measurements, computational imaging, computer vision, and statistical learning. 
+I am passionate about solving challenging, multidisciplinary research and engineering problems related to nature. I am also open to expanding my research horizons to wearables, autonomous systems, space technology, and medical sensing.
+
+My PhD topic is Distributed Optical Atmospheric Sensing Learning, which aims to advance the study of dynamic atmospheric phenomena from lidars. My research is part of the inspiring ERC Horizon 2020 project [CloudCT](https://www.cloudct.space/) and is done in collaboration with the Ground-based remote sensing group of [TROPOS](https://www.tropos.de/en/), Germany.
+My MSc topic was Underwater Wide Field Optical Tomography of Sediment Resuspension. It was in collaboration with [VISEAON](https://www.viseaon.haifa.ac.il/), the Marine Imagine Lab of Prof. Tali Treibitz, Haifa University, Israel.
