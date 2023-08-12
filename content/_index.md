@@ -59,18 +59,6 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Student projects
-      filters:
-        folders:
-          - student_projects
-        #featured_only: true
-    design:
-      columns: '2'
-      view: card
-
-  - block: collection
-    id: featured
-    content:
       title: Featured Publications
       filters:
         folders:
@@ -79,6 +67,7 @@ sections:
     design:
       columns: '2'
       view: card
+
   - block: collection
     id: talks
     content:
@@ -104,11 +93,18 @@ sections:
     design:
       columns: '2'
       view: compact
-  # - block: tag_cloud
-  #   content:
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
+
+  - block: collection
+    id: featured
+    content:
+      title: Student projects
+      filters:
+        folders:
+          - student_projects
+    design:
+      columns: '2'
+      view: card
+
   - block: contact
     id: contact
     content:
