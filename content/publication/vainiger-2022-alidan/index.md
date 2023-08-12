@@ -5,8 +5,8 @@ title: 'ALiDAn: Spatiotemporal and Multiwavelength Atmospheric Lidar Data Augmen
 subtitle: ''
 summary: ''
 authors:
-- Adi Vainiger
 - admin
+- Omer Shubi
 - Yoav Y Schechner
 - Zhenping Yin
 - Holger Baars
@@ -16,7 +16,7 @@ tags: ["Atmospheric Lidar"]
 categories: ["Atmospheric Lidar"]
 date: '2022-01-01'
 lastmod: 2023-06-02T20:08:13+03:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

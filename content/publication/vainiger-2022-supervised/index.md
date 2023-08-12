@@ -5,8 +5,8 @@ title: Supervised learning calibration of an atmospheric LiDAR
 subtitle: ''
 summary: ''
 authors:
-- Adi Vainiger
 - admin
+- Omer Shubi
 - Yoav Y Schechner
 - Yin Zhenping
 - Holger Baars
