@@ -29,7 +29,7 @@ sections:
             * Head Teaching Assistant for Language, Computation & Cognition (Joint course; Spring 2022 and Spring 2023).
             * Teaching Assistant for Database Management (Undergraduate course; Winter 2022 and Winter 2023).
             * Mentoring undergrad final project (Spring 2023).
-        - title: Research Assistant
+        - title: Research Engineer 
           company: Hybrid Imaging Lab, Electrical and Computer Engineering Faculty, Technion
           company_url: 'https://webee.technion.ac.il/people/yoav/lab-and-group/'
           company_logo: lab-logo
@@ -40,19 +40,51 @@ sections:
             * Active part in [CloudCT](cloudct.space), a 3D optical scattering tomography space mission to probe clouds.
                         
             * Collaborated on developing an atmospheric lidar simulator & deep-learning-based calibration method.
-        - title: Multiple Roles
-          company: Watteam (Start-Up Company)
-          company_url: ''
-          company_logo: 'watteam-logo'
+        - title: Algorithms Engineer 
+          company: Mobileye (Israel)
+          company_url: 'https://www.mobileye.com'
+          company_logo: # add company logo here
           location: ''
-          date_start: '2015-03-01'
-          date_end: '2018-11-30'
+          date_start: '2014-01-01' # correct dates needed dates needed 
+          date_end: '2014-12-01'
           description: |2-
-            * Head of Business Development, China.
+            * Analyzing the autonomous vehicle performance using machine learning and image processing algorithms.
             
-            * Customer Satisfaction Manager.
-            
-            * Project & Lab Manager.
+            * Embedding of detection algorithms into a semi-automated marking system.
+        - title: Software Graphics Engineer 
+          company: Intel (Israel)
+          company_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+          company_logo: # add company logo here
+          location: ''
+          date_start: '2013-01-01' # correct dates needed dates needed 
+          date_end: '2014-01-01'
+          description: |2-
+          * Power management enhancement of the graphics driver on Windows and Android platforms.
+
+          * Developing statistics test tools to analyze 3D applications and games.
+        - title: Board designer - student position
+          company: Rafael Advanced Defense Systems (Israel)
+          company_url: 'https://www.rafael.co.il'
+          company_logo: # add company logo here
+          location: ''
+          date_start: '2010-01-01' # correct dates needed dates needed 
+          date_end: '2011-01-01'
+          description: |2-
+          * Development and production of analog and digital boards.
+          * Design, construction, and operation of automated testing systems of FPGA boards.
+        
+        - title: Lieutenant, Information and Communication Technology Officer.
+          company: Israel Defence Force.
+          company_url: 
+          company_logo: # add company logo here
+          location: ''
+          date_start: '2001-01-01' # correct dates needed dates needed 
+          date_end: '2004-01-01'
+          description: |2-
+          * Elected as an outstanding commander of the Cadet training course.
+
+          * Commander of Communication and Computer departments.
+          
     design:
       columns: '2'
 
