@@ -37,8 +37,8 @@ sections:
           company_url: 'https://webee.technion.ac.il/people/yoav/lab-and-group/'
           company_logo: lab-logo
           location: 'Haifa, Israel'
-          date_start: '2019-09'
-          date_end: '2020-04'
+          date_start: '2019-09-01'
+          date_end: '2020-04-01'
           description: |2-
             * Active part in [CloudCT](cloudct.space), a 3D optical scattering tomography space mission to probe clouds.
                         
@@ -48,8 +48,8 @@ sections:
           company_url: 'https://www.mobileye.com'
           company_logo: Mobileye_logo 
           location: 'Jerusalem, Israel'
-          date_start: '2014-04' # correct dates needed dates needed 
-          date_end: '2014-12'
+          date_start: '2014-04-01' # correct dates needed dates needed 
+          date_end: '2014-12-01'
           description: |2-
             * Analyzing the autonomous vehicle performance using machine learning and image processing algorithms.
             
@@ -59,8 +59,8 @@ sections:
           company_url: 'https://www.intel.com/content/www/us/en/homepage.html'
           company_logo: Intel_logo
           location: 'Yakum, Israel'
-          date_start: '2013-03' 
-          date_end: '2014-04'
+          date_start: '2013-03-01' 
+          date_end: '2014-04-01'
           description: |2-
             * Power management enhancement of the graphics driver on Windows and Android platforms.
             * Developing statistics test tools to analyze 3D applications and games.
@@ -69,8 +69,8 @@ sections:
           company_url: 'https://www.rafael.co.il'
           company_logo: Rafael_logo
           location: 'Israel'
-          date_start: '2009-11' 
-          date_end: '2011-12'
+          date_start: '2009-11-01' 
+          date_end: '2011-12-01'
           description: |2-
             * Development and production of analog and digital boards.
             * Design, construction, and operation of automated testing systems of FPGA boards.
@@ -80,8 +80,8 @@ sections:
           company_url: 
           company_logo: # add company logo here
           location: ''
-          date_start: '2001-10' 
-          date_end: '2004-04'
+          date_start: '2001-10-01' 
+          date_end: '2004-04-01'
           description: |2-
             * Cadet team Commander at the training base of the C4I Corps. Elected as an outstanding commander of the Cadet training course.
 
