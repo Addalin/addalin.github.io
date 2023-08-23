@@ -19,21 +19,24 @@ sections:
       date_format: Jan 2006
       items:
         - title: Teaching
-          company: Faculty of Data & Decision Sciences, Technion
-          company_url: 'https://dds.technion.ac.il/'
-          company_logo: Technion_logo
-          location: ''
+          company: The Viterbi Faculty of Electrical & Computer Engineering, Technion
+          company_url: 'https://ece.technion.ac.il/'
+          company_logo: ECE_logo
+          location: 'Haifa, Israel'
           date_start: '2016-11'
           date_end: ''
           description: |2-
-            * Head Teaching Assistant for Language, Computation & Cognition (Joint course; Spring 2022 and Spring 2023).
-            * Teaching Assistant for Database Management (Undergraduate course; Winter 2022 and Winter 2023).
-            * Mentoring undergrad final project (Spring 2023).
+            * Teaching Assistant in Three-Dimensional Imaging and Reconstruction, Graduate.
+            * HW Grader in Algorithms and Applications in Computer Vision, Graduate & Undergrad.
+            * Laboratory Moderator in Introduction to Image Processing and Analysis, Undergraduate.
+            * Laboratory Moderator in Elementary lab course of the ECE program, Undergraduate.
+            * Mentor in Introduction to ECE, Undergraduate.
+            * Supervisor of Undergraduate final projects.
         - title: Research Engineer 
           company: Hybrid Imaging Lab, Electrical and Computer Engineering Faculty, Technion
           company_url: 'https://webee.technion.ac.il/people/yoav/lab-and-group/'
           company_logo: lab-logo
-          location: ''
+          location: 'Haifa, Israel'
           date_start: '2019-09'
           date_end: '2020-04'
           description: |2-
@@ -44,7 +47,7 @@ sections:
           company: Mobileye 
           company_url: 'https://www.mobileye.com'
           company_logo: Mobileye_logo 
-          location: ''
+          location: 'Jerusalem, Israel'
           date_start: '2014-04' # correct dates needed dates needed 
           date_end: '2014-12'
           description: |2-
@@ -55,7 +58,7 @@ sections:
           company: Intel 
           company_url: 'https://www.intel.com/content/www/us/en/homepage.html'
           company_logo: Intel_logo
-          location: ''
+          location: 'Yakum, Israel'
           date_start: '2013-03' 
           date_end: '2014-04'
           description: |2-
@@ -66,7 +69,7 @@ sections:
           company: Rafael Advanced Defense Systems 
           company_url: 'https://www.rafael.co.il'
           company_logo: Rafael_logo
-          location: ''
+          location: 'Israel'
           date_start: '2009-11' 
           date_end: '2011-12'
           description: |2-
@@ -81,7 +84,7 @@ sections:
           date_start: '2001-10' 
           date_end: '2004-04'
           description: |2-
-          * Elected as an outstanding commander of the Cadet training course.
+          * Cadet team Commander at the training base of the C4I Corps. Elected as an outstanding commander of the Cadet training course.
 
           * Commander of Communication and Computer departments.
 
