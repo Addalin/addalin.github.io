@@ -72,8 +72,8 @@ sections:
           date_start: '2009-11' 
           date_end: '2011-12'
           description: |2-
-          * Development and production of analog and digital boards.
-          * Design, construction, and operation of automated testing systems of FPGA boards.
+            * Development and production of analog and digital boards.
+            * Design, construction, and operation of automated testing systems of FPGA boards.
         
         - title: Lieutenant, Information and Communication Technology Officer.
           company: Israel Defence Force.
@@ -83,9 +83,9 @@ sections:
           date_start: '2001-10' 
           date_end: '2004-04'
           description: |2-
-          * Cadet team Commander at the training base of the C4I Corps. Elected as an outstanding commander of the Cadet training course.
+            * Cadet team Commander at the training base of the C4I Corps. Elected as an outstanding commander of the Cadet training course.
 
-          * Commander of Communication and Computer departments.
+            * Commander of Communication and Computer departments.
 
     design:
       columns: '2'
