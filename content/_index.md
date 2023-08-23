@@ -21,7 +21,7 @@ sections:
         - title: Teaching
           company: Faculty of Data & Decision Sciences, Technion
           company_url: 'https://dds.technion.ac.il/'
-          company_logo: ''
+          company_logo: Technion_logo
           location: ''
           date_start: '2021-10-01'
           date_end: '2023-09-30'
@@ -41,9 +41,9 @@ sections:
                         
             * Collaborated on developing an atmospheric lidar simulator & deep-learning-based calibration method.
         - title: Algorithms Engineer 
-          company: Mobileye (Israel)
+          company: Mobileye 
           company_url: 'https://www.mobileye.com'
-          company_logo: # add company logo here
+          company_logo: Mobileye_logo 
           location: ''
           date_start: '2014-01-01' # correct dates needed dates needed 
           date_end: '2014-12-01'
@@ -52,9 +52,9 @@ sections:
             
             * Embedding of detection algorithms into a semi-automated marking system.
         - title: Software Graphics Engineer 
-          company: Intel (Israel)
+          company: Intel 
           company_url: 'https://www.intel.com/content/www/us/en/homepage.html'
-          company_logo: # add company logo here
+          company_logo: Intel_logo
           location: ''
           date_start: '2013-01-01' # correct dates needed dates needed 
           date_end: '2014-01-01'
@@ -63,9 +63,9 @@ sections:
 
           * Developing statistics test tools to analyze 3D applications and games.
         - title: Board designer - student position
-          company: Rafael Advanced Defense Systems (Israel)
+          company: Rafael Advanced Defense Systems 
           company_url: 'https://www.rafael.co.il'
-          company_logo: # add company logo here
+          company_logo: Rafael_logo
           location: ''
           date_start: '2010-01-01' # correct dates needed dates needed 
           date_end: '2011-01-01'
@@ -84,7 +84,7 @@ sections:
           * Elected as an outstanding commander of the Cadet training course.
 
           * Commander of Communication and Computer departments.
-          
+
     design:
       columns: '2'
 
@@ -146,7 +146,7 @@ sections:
       text: |-
         Contact me at:
       # Contact (add or remove contact options as necessary)
-      email: <last_name>(at)campus.technion.ac.il
+      email: Addalin@campus.technion.ac.il
       # Automatically link email and phone or display as text?
       autolink: false
     design:
