@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2023-08-23
 type: landing
 editable: true
 
@@ -23,8 +23,8 @@ sections:
           company_url: 'https://dds.technion.ac.il/'
           company_logo: Technion_logo
           location: ''
-          date_start: '2021-10-01'
-          date_end: '2023-09-30'
+          date_start: '2016-11'
+          date_end: ''
           description: |2-
             * Head Teaching Assistant for Language, Computation & Cognition (Joint course; Spring 2022 and Spring 2023).
             * Teaching Assistant for Database Management (Undergraduate course; Winter 2022 and Winter 2023).
@@ -56,7 +56,7 @@ sections:
           company_url: 'https://www.intel.com/content/www/us/en/homepage.html'
           company_logo: Intel_logo
           location: ''
-          date_start: '2013' # correct dates needed dates needed 
+          date_start: '2013-03' 
           date_end: '2014-04'
           description: |2-
           * Power management enhancement of the graphics driver on Windows and Android platforms.
@@ -67,8 +67,8 @@ sections:
           company_url: 'https://www.rafael.co.il'
           company_logo: Rafael_logo
           location: ''
-          date_start: '2009' # correct dates needed dates needed 
-          date_end: '2011'
+          date_start: '2009-11' 
+          date_end: '2011-12'
           description: |2-
           * Development and production of analog and digital boards.
           * Design, construction, and operation of automated testing systems of FPGA boards.
@@ -78,7 +78,7 @@ sections:
           company_url: 
           company_logo: # add company logo here
           location: ''
-          date_start: '2001-10' # correct dates needed dates needed 
+          date_start: '2001-10' 
           date_end: '2004-04'
           description: |2-
           * Elected as an outstanding commander of the Cadet training course.
