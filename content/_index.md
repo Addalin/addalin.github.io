@@ -62,9 +62,8 @@ sections:
           date_start: '2013-03' 
           date_end: '2014-04'
           description: |2-
-          * Power management enhancement of the graphics driver on Windows and Android platforms.
-
-          * Developing statistics test tools to analyze 3D applications and games.
+            * Power management enhancement of the graphics driver on Windows and Android platforms.
+            * Developing statistics test tools to analyze 3D applications and games.
         - title: Board designer - student position
           company: Rafael Advanced Defense Systems 
           company_url: 'https://www.rafael.co.il'
