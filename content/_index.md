@@ -23,7 +23,7 @@ sections:
           company_url: 'https://ece.technion.ac.il/'
           company_logo: ECE_logo
           location: 'Haifa, Israel'
-          date_start: '2016-11'
+          date_start: '2016-11-01'
           date_end: ''
           description: |2-
             * Teaching Assistant in Three-Dimensional Imaging and Reconstruction, Graduate.
